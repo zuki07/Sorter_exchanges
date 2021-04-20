@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="sorter_exchanges.jnlp">
+  <information>
+    <title>sorter_exchanges</title>
+    <vendor>wildzuk</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="sorter_exchanges.jar" size="234344" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="sorter_exchanges.Sorter_exchanges"  name="sorter_exchanges" />
+  <update check="always"/>
+</jnlp>

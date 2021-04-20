@@ -1,0 +1,21 @@
+.root{
+    -fx-font-size: 13pt;
+    -fx-font-weight: bold;
+    -fx-background-image: url(circuit_background.jpg);
+    -fx-background-size: 550 550;
+}
+
+.label{
+    -fx-background-color: rgb(242,184,87);
+    -fx-background-radius: 20px;
+}
+
+.button{
+    -fx-background-radius: 20px;
+    -fx-padding: 7px 15px;
+    -fx-base: rgb(69,54,72);
+}
+.button:hover{
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.1;
+}
