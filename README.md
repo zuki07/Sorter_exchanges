@@ -1,3 +1,3 @@
-# Insertion Sorter
+# Sorter Exchanges
 
-Javafx Insertion Sorter GUI
+Javafx Sorter Exchanges GUI
